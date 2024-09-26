@@ -1,0 +1,14 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SHOPIFY_BLOGID": "85239005389",
+    "ChatGPT_CommandPromptWithJsonFormat": "Act as a successful content writer for ecommerce site. Generate a compelling and engaging product description for a makeup or beauty care item, focusing on its unique features, benefits, and ingredients. Highlight the product's effectiveness for various skin types and preferences. Craft the description in a way that resonates with the target audience and enhances product. Close the description with a persuasive call-to-action that entices potential customers to purchase the product and experience its transformative effects. The target audience would be genZ and millennials. Answer in JSON machine-readable format, use following keys 'title', 'body', 'tags'. 'title' must be crisp and catchy. 'body' should be easy to read and formatted with 'p', 'em', 'h3', 'strong', 'span'. 'body' can have emojis.",
+    "ChatGPT_CommandPromptWithPlainTextFormat": "Act as a successful product content writer for ecommerce site. Generate a compelling and engaging product description for a makeup or beauty care item, focusing on its unique features, benefits, and organic ingredients. Highlight the product's effectiveness for various skin types and preferences. Craft the description in a way that resonates with the target audience and enhances product. Close the description with a persuasive call-to-action that entices potential customers to purchase the product and experience its transformative effects. The target audience would be genZ and millennials. OK to have emojis and bullet points. Answer in formatted text by simple tags such as 'p', 'em', 'h3', 'strong', 'span'.",
+    "SHOPTOKEN": "",
+    "SHOP_URL": "",
+    "GENKEY": "",
+    "GEN_APP":  ""
+  }
+}
